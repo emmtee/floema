@@ -1,0 +1,19 @@
+{
+  "name": "floema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmtee/floema.git"
+  },
+  "author": "Bello Emituntun Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmtee/floema/issues"
+  },
+  "homepage": "https://github.com/emmtee/floema#readme"
+}
